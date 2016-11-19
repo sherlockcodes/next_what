@@ -1,6 +1,6 @@
 Next what??
 
-this project is build to recommend movies to watch from your unwatched movie list ( either from your hard disk or your local drive.)
+this project is build to recommend movies to watch next from your unwatched movie list ( either from your hard disk or your local drive.)
 
 Recommendation is generated based on following things:
 
